@@ -1,7 +1,7 @@
 .card-img-top {
   height: 100px;
   width: 100px;
-  border: solid white 4px;
+  border: solid #43394c 2px;
   border-radius: 10px !important;
 
 }
@@ -13,4 +13,11 @@
   margin-left: 40px;
   border: none;
   background: none;
+}
+
+body {
+  font-family: "Garamond" ;
+}
+h1 {
+  color: #43394c;
 }
